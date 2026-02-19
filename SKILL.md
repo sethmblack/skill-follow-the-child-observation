@@ -3,8 +3,9 @@ name: follow-the-child-observation
 description: Conduct systematic observation of a learner to understand their developmental needs, rather than imposing adult assumptions.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.4021
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - follow-the-child-observation
 - transformation
